@@ -6,7 +6,7 @@ EJERCICIO 2
 
 EJERCICIO 3
 	
-	Dentro del proyecto HelloMaven
+	Dentro está el primer ejemplo hecho en clase con MAVEN llamado HELLOMAVEN
 
 EJERCICIO 4
 
